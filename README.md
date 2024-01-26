@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying Data Science
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning advanced programming
 - 👯 I’m looking to collaborate on Data Science projects
 - 🤔 I’m looking for help to improve my programming and data mining, analysis, visualization skills.
 - 💬 Ask me about Power Electronics, which is my specialization in electrical engineering. 
