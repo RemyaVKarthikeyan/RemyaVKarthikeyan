@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently studying Data Science
-- 🌱 I’m currently learning advanced programming
-- 👯 I’m looking to collaborate on Data Science projects
-- 🤔 I’m looking for help to improve my programming and data mining, analysis, visualization skills.
+- 🔭 I’m a Data Scientist with strong background in Electrical Engineering.
+- 🌱 I’m currently learning embedded programming for DSP, and simulation softwares.
+- 👯 I’m looking to collaborate on projects that leverage my skills.
 - 💬 Ask me about Power Electronics, which is my specialization in electrical engineering. 
 - 📫 How to reach me: https://www.linkedin.com/in/remyavkarthikeyan/
 - 😄 Pronouns: She/Her
